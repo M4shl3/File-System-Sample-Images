@@ -1,7 +1,22 @@
-This repository provides sample disk images for use in digital forensics tool testing, including:
+# Digital Forensics Tool Testing Images
 
-XFS
+This repository contains a collection of sample disk images for use in **digital forensics tool testing** and research.
 
-APFS
+### 🗂️ Included File Systems
+- **XFS**
+- **APFS**
 
-Additional file system images and test datasets are available on Brian Carrier’s official Digital Forensics Tool Testing (DFTT) website.
+These images are intended to help analysts, students, and researchers evaluate the behavior and compatibility of forensic tools across different file systems.
+
+### 📚 Additional Resources
+
+For a broader set of file system images and official test datasets, please visit:
+
+🔗 [Brian Carrier’s Digital Forensics Tool Testing (DFTT) Project](https://dftt.sourceforge.net/)
+
+### 📌 Disclaimer
+
+These images are provided **for educational and testing purposes only**. Ensure that you are operating in a controlled environment and using appropriate tools.
+
+---
+
